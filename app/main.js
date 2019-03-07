@@ -1,6 +1,6 @@
 import Vue from 'nativescript-vue'
 import App from './components/App'
-import VueDevtools from 'nativescript-vue-devtools'
+//import VueDevtools from 'nativescript-vue-devtools'
 
 if(TNS_ENV !== 'production') {
   Vue.use(VueDevtools)
@@ -16,3 +16,4 @@ new Vue({
 // This is a new comment March 6, 2019
 // Marchal's Comment
 // Marchal's second test!
+// I cannot figure out how to get this to work on the playground!
