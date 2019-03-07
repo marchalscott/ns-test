@@ -1,6 +1,6 @@
 <template>
     <Page>
-        <ActionBar title="Welcome to NativeScript-Vue!" android:flat="true"/>
+        <ActionBar title="UTA Motion" android:flat="true"/>
         <TabView android:tabBackgroundColor="#53ba82"
                  android:tabTextColor="#c4ffdf"
                  android:selectedTabTextColor="#ffffff"
